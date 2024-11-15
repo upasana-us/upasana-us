@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @upasana-us
+- 👋 Hi, I’m Upasana (Ooo-pah-suh-naa)
 - 👀 I’m interested in everything related to data, science and analytics
 - 🌱 I’m currently learning to improve my coding and management skills
 - 💞️ I’m looking to collaborate on hackathon, clubs and anything related to data science
